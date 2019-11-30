@@ -30,7 +30,7 @@ Game Control
 
 | Tombol Keyboard | Fungsi |
 | ----- | ----- |
-| W / Up / Space| Jalan Maju |
+| W / Up / Space| Lompat |
 | D / Right | Jalan Ke kanan |
 | A / Left | Jalan Ke kiri |
 | S / Down | Bawah |
