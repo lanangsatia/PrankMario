@@ -37,3 +37,19 @@ Game Control
 
 ### Screenshot
 
+
+Main Menu
+![Screenshot](MainMenu.jpg)
+
+
+Start Screen
+![Screenshot](StartScreen.jpg)
+
+
+Stage 1-1
+![Screenshot](1-1.jpg)
+
+
+Stage 1-2
+![Screenshot](1-2.jpg)
+
