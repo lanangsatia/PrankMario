@@ -20,6 +20,7 @@ Game Control
 
 ### Developer
 | Nama | NIM | Pembagian Tugas |
+| ----- | ----- | ----- |
 | Lanang Satia Aji | G64170095 | Game Artist, Game Programmer |
 |Haidar Muhammad Yasin | G64170096 | Game Artist, Desainer |
 |I Nyoman Rai Widartha | G644170105 | Game Artist, Game Programmer |
