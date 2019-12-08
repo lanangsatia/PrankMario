@@ -1,5 +1,7 @@
 # Prank Mario
 
+![Screenshot](Mario.png)
+
 ### Deskripsi Game
 Sebuah Game seperti Game Mario Bros, tetapi dengan rintangan dan obstacle yang berbeda.
 Game Serupa = Cat Mario
